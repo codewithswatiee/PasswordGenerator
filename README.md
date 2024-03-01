@@ -1,5 +1,3 @@
-Certainly! Below is a template for the README.md file for your password generator project:
-
 ---
 
 # Password Generator
